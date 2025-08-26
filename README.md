@@ -23,7 +23,7 @@ Or run from Command Palette: ELI5: Explain Selection
 🎛️ Commands
 ELI5: Explain Selection – Explain selected code
 ELI5: Explain File – Explain the entire active file
-ELI5: Copy Last Explanation – Copy the last explanation to clipboard
+ELI5: Copy Last Explanation – Copy the last explana   tion to clipboard
 ⚙️ Settings
 ELI5 is fully local, but you can adjust settings in VS Code:
 
