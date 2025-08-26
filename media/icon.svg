@@ -1,0 +1,21 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <!-- Robot head background -->
+  <rect x="2" y="2" width="12" height="12" rx="3" fill="#4A90E2" stroke="#2E5C8A" stroke-width="0.5"/>
+  
+  <!-- Robot eyes -->
+  <circle cx="5.5" cy="6" r="1" fill="#FFD700"/>
+  <circle cx="10.5" cy="6" r="1" fill="#FFD700"/>
+  <circle cx="5.5" cy="6" r="0.3" fill="#000"/>
+  <circle cx="10.5" cy="6" r="0.3" fill="#000"/>
+  
+  <!-- Happy smile -->
+  <path d="M 5 9 Q 8 11 11 9" stroke="#FFD700" stroke-width="1" fill="none" stroke-linecap="round"/>
+  
+  <!-- Antenna -->
+  <line x1="8" y1="2" x2="8" y2="0.5" stroke="#FFD700" stroke-width="1"/>
+  <circle cx="8" cy="0.5" r="0.5" fill="#FFD700"/>
+  
+  <!-- Side details -->
+  <rect x="1.5" y="4" width="0.5" height="2" fill="#FFD700" rx="0.2"/>
+  <rect x="14" y="4" width="0.5" height="2" fill="#FFD700" rx="0.2"/>
+</svg>
