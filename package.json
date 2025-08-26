@@ -16,6 +16,7 @@
     "onView:eli5.view"
   ],
   "main": "./out/extension.js",
+  "icn": "media/icon.jpeg",
   "contributes": {
     "commands": [
       {
